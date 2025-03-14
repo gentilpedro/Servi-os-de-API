@@ -11,3 +11,5 @@ npm i express
 no json muda o script para mudar de test para dev 
 
 npx ts-node-dev --respawn index.ts
+
+teste comit
