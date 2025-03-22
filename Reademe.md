@@ -13,3 +13,7 @@ no json muda o script para mudar de test para dev
 npx ts-node-dev --respawn index.ts
 
 teste comit
+
+Para começar a migração basta usar o comando
+
+npx prisma migrate dev
